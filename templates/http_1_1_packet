@@ -1,0 +1,7 @@
+HTTP/1.1 {{code}} {{status}}{{"\r"}}
+Content-Type: {{content_type}}{{"\r"}}
+Content-Length: {{content_length}}{{"\r"}}
+Connection: close{{"\r"}}
+{{"\r"}}
+{{content}}
+{{"\r"}}
